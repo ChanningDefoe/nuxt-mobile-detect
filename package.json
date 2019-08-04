@@ -1,0 +1,15 @@
+{
+  "name": "nuxt-mobile-detect",
+  "version": "1.0.0",
+  "description": "Nuxt mobile-detect integration",
+  "main": "lib/index.js",
+  "repository": "channingdefoe/nuxt-mobile-detect",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Channing Defoe",
+  "license": "MIT",
+  "dependencies": {
+    "mobile-detect": "^1.4.3"
+  }
+}
