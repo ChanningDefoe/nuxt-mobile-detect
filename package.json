@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-mobile-detect",
+  "name": "nuxt-mobile",
   "version": "1.0.0",
   "description": "Nuxt mobile-detect integration",
   "main": "lib/index.js",
