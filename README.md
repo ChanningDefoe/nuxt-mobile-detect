@@ -2,9 +2,12 @@
 `nuxt-mobile-detect` is a wrapper around [mobile-detect.js](https://github.com/hgoebl/mobile-detect.js) for nuxtjs. It can be used client side and server side.
 
 ## Setup
-- Add `nuxt-mobile-detect` dependency using npm
+- Add `nuxt-mobile-detect` dependency using npm or yarn
 ```
 npm i nuxt-mobile
+```
+```
+yarn add nuxt-mobile
 ```
 - Add `nuxt-mobile-detect` to the `modules` section of `nuxt.config.js`
 
