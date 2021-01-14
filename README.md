@@ -1,4 +1,11 @@
-# nuxt-mobile-detect
+<h1 align="center" >📱 Nuxt Mobile Detect</h1>
+
+<p align="center">
+<a href="https://npmjs.com/package/nuxt-mobile">
+    <img alt="" src="https://img.shields.io/npm/v/nuxt-mobile/latest.svg?style=flat-square">
+</a>
+</p>
+
 `nuxt-mobile-detect` is a wrapper around [mobile-detect.js](https://github.com/hgoebl/mobile-detect.js) for nuxtjs. It can be used client side and server side.
 
 **Note:** [`@nuxtjs/device`](https://github.com/nuxt-community/device-module) is another nuxt package for mobile device detection. `nuxt-mobile-detect` adds ~27.5kb of overhead and `@nuxtjs/device` only adds ~4.5kb, many projects won't need the full capabilities of mobile-detect.js and `@nuxtjs/device` would satisfy their use case.
